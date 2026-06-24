@@ -1,0 +1,1002 @@
+[
+  {
+    "sentence": "यह वाक्य पत्र के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "पत्र",
+    "gold_sense": "letter"
+  },
+  {
+    "sentence": "यह वाक्य पत्र के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "पत्र",
+    "gold_sense": "newspaper"
+  },
+  {
+    "sentence": "यह वाक्य पत्र के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "पत्र",
+    "gold_sense": "leaf"
+  },
+  {
+    "sentence": "यह वाक्य पत्र के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "पत्र",
+    "gold_sense": "exam paper"
+  },
+  {
+    "sentence": "यह वाक्य पत्र के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "पत्र",
+    "gold_sense": "official document"
+  },
+  {
+    "sentence": "यह वाक्य बैंक के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "बैंक",
+    "gold_sense": "financial institution"
+  },
+  {
+    "sentence": "यह वाक्य बैंक के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "बैंक",
+    "gold_sense": "river bank"
+  },
+  {
+    "sentence": "यह वाक्य बैंक के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "बैंक",
+    "gold_sense": "financial institution"
+  },
+  {
+    "sentence": "यह वाक्य बैंक के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "बैंक",
+    "gold_sense": "river bank"
+  },
+  {
+    "sentence": "यह वाक्य बैंक के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "बैंक",
+    "gold_sense": "financial institution"
+  },
+  {
+    "sentence": "यह वाक्य जड़ के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "जड़",
+    "gold_sense": "plant root"
+  },
+  {
+    "sentence": "यह वाक्य जड़ के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "जड़",
+    "gold_sense": "cause"
+  },
+  {
+    "sentence": "यह वाक्य जड़ के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "जड़",
+    "gold_sense": "mathematical root"
+  },
+  {
+    "sentence": "यह वाक्य जड़ के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "जड़",
+    "gold_sense": "plant root"
+  },
+  {
+    "sentence": "यह वाक्य जड़ के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "जड़",
+    "gold_sense": "cause"
+  },
+  {
+    "sentence": "यह वाक्य धारा के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "धारा",
+    "gold_sense": "stream"
+  },
+  {
+    "sentence": "यह वाक्य धारा के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "धारा",
+    "gold_sense": "law section"
+  },
+  {
+    "sentence": "यह वाक्य धारा के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "धारा",
+    "gold_sense": "electric current"
+  },
+  {
+    "sentence": "यह वाक्य धारा के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "धारा",
+    "gold_sense": "stream"
+  },
+  {
+    "sentence": "यह वाक्य धारा के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "धारा",
+    "gold_sense": "law section"
+  },
+  {
+    "sentence": "यह वाक्य मुख के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "मुख",
+    "gold_sense": "face"
+  },
+  {
+    "sentence": "यह वाक्य मुख के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "मुख",
+    "gold_sense": "mouth"
+  },
+  {
+    "sentence": "यह वाक्य मुख के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "मुख",
+    "gold_sense": "entrance"
+  },
+  {
+    "sentence": "यह वाक्य मुख के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "मुख",
+    "gold_sense": "face"
+  },
+  {
+    "sentence": "यह वाक्य मुख के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "मुख",
+    "gold_sense": "river mouth"
+  },
+  {
+    "sentence": "यह वाक्य कलम के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "कलम",
+    "gold_sense": "pen"
+  },
+  {
+    "sentence": "यह वाक्य कलम के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "कलम",
+    "gold_sense": "writing style"
+  },
+  {
+    "sentence": "यह वाक्य कलम के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "कलम",
+    "gold_sense": "pen"
+  },
+  {
+    "sentence": "यह वाक्य कलम के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "कलम",
+    "gold_sense": "writing skill"
+  },
+  {
+    "sentence": "यह वाक्य कलम के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "कलम",
+    "gold_sense": "pen"
+  },
+  {
+    "sentence": "यह वाक्य चाल के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "चाल",
+    "gold_sense": "walk"
+  },
+  {
+    "sentence": "यह वाक्य चाल के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "चाल",
+    "gold_sense": "move"
+  },
+  {
+    "sentence": "यह वाक्य चाल के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "चाल",
+    "gold_sense": "trick"
+  },
+  {
+    "sentence": "यह वाक्य चाल के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "चाल",
+    "gold_sense": "walk"
+  },
+  {
+    "sentence": "यह वाक्य चाल के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "चाल",
+    "gold_sense": "strategy"
+  },
+  {
+    "sentence": "यह वाक्य हल के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "हल",
+    "gold_sense": "solution"
+  },
+  {
+    "sentence": "यह वाक्य हल के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "हल",
+    "gold_sense": "plough"
+  },
+  {
+    "sentence": "यह वाक्य हल के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "हल",
+    "gold_sense": "solution"
+  },
+  {
+    "sentence": "यह वाक्य हल के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "हल",
+    "gold_sense": "plough"
+  },
+  {
+    "sentence": "यह वाक्य हल के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "हल",
+    "gold_sense": "solution"
+  },
+  {
+    "sentence": "यह वाक्य तीर के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "तीर",
+    "gold_sense": "arrow"
+  },
+  {
+    "sentence": "यह वाक्य तीर के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "तीर",
+    "gold_sense": "river bank"
+  },
+  {
+    "sentence": "यह वाक्य तीर के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "तीर",
+    "gold_sense": "arrow"
+  },
+  {
+    "sentence": "यह वाक्य तीर के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "तीर",
+    "gold_sense": "river bank"
+  },
+  {
+    "sentence": "यह वाक्य तीर के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "तीर",
+    "gold_sense": "arrow"
+  },
+  {
+    "sentence": "यह वाक्य रूप के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "रूप",
+    "gold_sense": "appearance"
+  },
+  {
+    "sentence": "यह वाक्य रूप के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "रूप",
+    "gold_sense": "form"
+  },
+  {
+    "sentence": "यह वाक्य रूप के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "रूप",
+    "gold_sense": "appearance"
+  },
+  {
+    "sentence": "यह वाक्य रूप के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "रूप",
+    "gold_sense": "form"
+  },
+  {
+    "sentence": "यह वाक्य रूप के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "रूप",
+    "gold_sense": "appearance"
+  },
+  {
+    "sentence": "यह वाक्य खेल के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "खेल",
+    "gold_sense": "sport"
+  },
+  {
+    "sentence": "यह वाक्य खेल के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "खेल",
+    "gold_sense": "game"
+  },
+  {
+    "sentence": "यह वाक्य खेल के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "खेल",
+    "gold_sense": "sport"
+  },
+  {
+    "sentence": "यह वाक्य खेल के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "खेल",
+    "gold_sense": "game"
+  },
+  {
+    "sentence": "यह वाक्य खेल के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "खेल",
+    "gold_sense": "sport"
+  },
+  {
+    "sentence": "यह वाक्य किताब के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "किताब",
+    "gold_sense": "book"
+  },
+  {
+    "sentence": "यह वाक्य किताब के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "किताब",
+    "gold_sense": "book"
+  },
+  {
+    "sentence": "यह वाक्य किताब के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "किताब",
+    "gold_sense": "book"
+  },
+  {
+    "sentence": "यह वाक्य किताब के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "किताब",
+    "gold_sense": "book"
+  },
+  {
+    "sentence": "यह वाक्य किताब के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "किताब",
+    "gold_sense": "book"
+  },
+  {
+    "sentence": "यह वाक्य मौसम के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "मौसम",
+    "gold_sense": "weather"
+  },
+  {
+    "sentence": "यह वाक्य मौसम के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "मौसम",
+    "gold_sense": "weather"
+  },
+  {
+    "sentence": "यह वाक्य मौसम के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "मौसम",
+    "gold_sense": "weather"
+  },
+  {
+    "sentence": "यह वाक्य मौसम के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "मौसम",
+    "gold_sense": "weather"
+  },
+  {
+    "sentence": "यह वाक्य मौसम के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "मौसम",
+    "gold_sense": "weather"
+  },
+  {
+    "sentence": "यह वाक्य घड़ी के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "घड़ी",
+    "gold_sense": "clock"
+  },
+  {
+    "sentence": "यह वाक्य घड़ी के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "घड़ी",
+    "gold_sense": "clock"
+  },
+  {
+    "sentence": "यह वाक्य घड़ी के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "घड़ी",
+    "gold_sense": "clock"
+  },
+  {
+    "sentence": "यह वाक्य घड़ी के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "घड़ी",
+    "gold_sense": "clock"
+  },
+  {
+    "sentence": "यह वाक्य घड़ी के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "घड़ी",
+    "gold_sense": "clock"
+  },
+  {
+    "sentence": "यह वाक्य दरवाजा के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "दरवाजा",
+    "gold_sense": "door"
+  },
+  {
+    "sentence": "यह वाक्य दरवाजा के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "दरवाजा",
+    "gold_sense": "door"
+  },
+  {
+    "sentence": "यह वाक्य दरवाजा के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "दरवाजा",
+    "gold_sense": "door"
+  },
+  {
+    "sentence": "यह वाक्य दरवाजा के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "दरवाजा",
+    "gold_sense": "door"
+  },
+  {
+    "sentence": "यह वाक्य दरवाजा के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "दरवाजा",
+    "gold_sense": "door"
+  },
+  {
+    "sentence": "यह वाक्य रास्ता के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "रास्ता",
+    "gold_sense": "road"
+  },
+  {
+    "sentence": "यह वाक्य रास्ता के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "रास्ता",
+    "gold_sense": "road"
+  },
+  {
+    "sentence": "यह वाक्य रास्ता के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "रास्ता",
+    "gold_sense": "road"
+  },
+  {
+    "sentence": "यह वाक्य रास्ता के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "रास्ता",
+    "gold_sense": "road"
+  },
+  {
+    "sentence": "यह वाक्य रास्ता के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "रास्ता",
+    "gold_sense": "road"
+  },
+  {
+    "sentence": "यह वाक्य सच के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "सच",
+    "gold_sense": "truth"
+  },
+  {
+    "sentence": "यह वाक्य सच के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "सच",
+    "gold_sense": "truth"
+  },
+  {
+    "sentence": "यह वाक्य सच के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "सच",
+    "gold_sense": "truth"
+  },
+  {
+    "sentence": "यह वाक्य सच के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "सच",
+    "gold_sense": "truth"
+  },
+  {
+    "sentence": "यह वाक्य सच के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "सच",
+    "gold_sense": "truth"
+  },
+  {
+    "sentence": "यह वाक्य स्कूल के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "स्कूल",
+    "gold_sense": "school"
+  },
+  {
+    "sentence": "यह वाक्य स्कूल के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "स्कूल",
+    "gold_sense": "school"
+  },
+  {
+    "sentence": "यह वाक्य स्कूल के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "स्कूल",
+    "gold_sense": "school"
+  },
+  {
+    "sentence": "यह वाक्य स्कूल के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "स्कूल",
+    "gold_sense": "school"
+  },
+  {
+    "sentence": "यह वाक्य स्कूल के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "स्कूल",
+    "gold_sense": "school"
+  },
+  {
+    "sentence": "यह वाक्य चाय के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "चाय",
+    "gold_sense": "tea"
+  },
+  {
+    "sentence": "यह वाक्य चाय के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "चाय",
+    "gold_sense": "tea"
+  },
+  {
+    "sentence": "यह वाक्य चाय के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "चाय",
+    "gold_sense": "tea"
+  },
+  {
+    "sentence": "यह वाक्य चाय के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "चाय",
+    "gold_sense": "tea"
+  },
+  {
+    "sentence": "यह वाक्य चाय के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "चाय",
+    "gold_sense": "tea"
+  },
+  {
+    "sentence": "यह वाक्य छात्र के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "छात्र",
+    "gold_sense": "student"
+  },
+  {
+    "sentence": "यह वाक्य छात्र के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "छात्र",
+    "gold_sense": "student"
+  },
+  {
+    "sentence": "यह वाक्य छात्र के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "छात्र",
+    "gold_sense": "student"
+  },
+  {
+    "sentence": "यह वाक्य छात्र के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "छात्र",
+    "gold_sense": "student"
+  },
+  {
+    "sentence": "यह वाक्य छात्र के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "छात्र",
+    "gold_sense": "student"
+  },
+  {
+    "sentence": "यह वाक्य फिल्म के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "फिल्म",
+    "gold_sense": "movie"
+  },
+  {
+    "sentence": "यह वाक्य फिल्म के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "फिल्म",
+    "gold_sense": "movie"
+  },
+  {
+    "sentence": "यह वाक्य फिल्म के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "फिल्म",
+    "gold_sense": "movie"
+  },
+  {
+    "sentence": "यह वाक्य फिल्म के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "फिल्म",
+    "gold_sense": "movie"
+  },
+  {
+    "sentence": "यह वाक्य फिल्म के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "फिल्म",
+    "gold_sense": "movie"
+  },
+  {
+    "sentence": "यह वाक्य पक्षी के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "पक्षी",
+    "gold_sense": "bird"
+  },
+  {
+    "sentence": "यह वाक्य पक्षी के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "पक्षी",
+    "gold_sense": "bird"
+  },
+  {
+    "sentence": "यह वाक्य पक्षी के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "पक्षी",
+    "gold_sense": "bird"
+  },
+  {
+    "sentence": "यह वाक्य पक्षी के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "पक्षी",
+    "gold_sense": "bird"
+  },
+  {
+    "sentence": "यह वाक्य पक्षी के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "पक्षी",
+    "gold_sense": "bird"
+  },
+  {
+    "sentence": "यह वाक्य गर्मी के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "गर्मी",
+    "gold_sense": "heat"
+  },
+  {
+    "sentence": "यह वाक्य गर्मी के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "गर्मी",
+    "gold_sense": "heat"
+  },
+  {
+    "sentence": "यह वाक्य गर्मी के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "गर्मी",
+    "gold_sense": "heat"
+  },
+  {
+    "sentence": "यह वाक्य गर्मी के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "गर्मी",
+    "gold_sense": "heat"
+  },
+  {
+    "sentence": "यह वाक्य गर्मी के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "गर्मी",
+    "gold_sense": "heat"
+  },
+  {
+    "sentence": "यह वाक्य गलती के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "गलती",
+    "gold_sense": "mistake"
+  },
+  {
+    "sentence": "यह वाक्य गलती के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "गलती",
+    "gold_sense": "mistake"
+  },
+  {
+    "sentence": "यह वाक्य गलती के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "गलती",
+    "gold_sense": "mistake"
+  },
+  {
+    "sentence": "यह वाक्य गलती के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "गलती",
+    "gold_sense": "mistake"
+  },
+  {
+    "sentence": "यह वाक्य गलती के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "गलती",
+    "gold_sense": "mistake"
+  },
+  {
+    "sentence": "यह वाक्य काम के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "काम",
+    "gold_sense": "work"
+  },
+  {
+    "sentence": "यह वाक्य काम के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "काम",
+    "gold_sense": "work"
+  },
+  {
+    "sentence": "यह वाक्य काम के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "काम",
+    "gold_sense": "work"
+  },
+  {
+    "sentence": "यह वाक्य काम के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "काम",
+    "gold_sense": "work"
+  },
+  {
+    "sentence": "यह वाक्य काम के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "काम",
+    "gold_sense": "work"
+  },
+  {
+    "sentence": "यह वाक्य घर के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "घर",
+    "gold_sense": "home"
+  },
+  {
+    "sentence": "यह वाक्य घर के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "घर",
+    "gold_sense": "home"
+  },
+  {
+    "sentence": "यह वाक्य घर के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "घर",
+    "gold_sense": "home"
+  },
+  {
+    "sentence": "यह वाक्य घर के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "घर",
+    "gold_sense": "home"
+  },
+  {
+    "sentence": "यह वाक्य घर के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "घर",
+    "gold_sense": "home"
+  },
+  {
+    "sentence": "यह वाक्य पानी के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "पानी",
+    "gold_sense": "water"
+  },
+  {
+    "sentence": "यह वाक्य पानी के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "पानी",
+    "gold_sense": "water"
+  },
+  {
+    "sentence": "यह वाक्य पानी के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "पानी",
+    "gold_sense": "water"
+  },
+  {
+    "sentence": "यह वाक्य पानी के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "पानी",
+    "gold_sense": "water"
+  },
+  {
+    "sentence": "यह वाक्य पानी के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "पानी",
+    "gold_sense": "water"
+  },
+  {
+    "sentence": "यह वाक्य मैदान के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "मैदान",
+    "gold_sense": "field"
+  },
+  {
+    "sentence": "यह वाक्य मैदान के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "मैदान",
+    "gold_sense": "field"
+  },
+  {
+    "sentence": "यह वाक्य मैदान के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "मैदान",
+    "gold_sense": "field"
+  },
+  {
+    "sentence": "यह वाक्य मैदान के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "मैदान",
+    "gold_sense": "field"
+  },
+  {
+    "sentence": "यह वाक्य मैदान के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "मैदान",
+    "gold_sense": "field"
+  },
+  {
+    "sentence": "यह वाक्य गेंद के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "गेंद",
+    "gold_sense": "ball"
+  },
+  {
+    "sentence": "यह वाक्य गेंद के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "गेंद",
+    "gold_sense": "ball"
+  },
+  {
+    "sentence": "यह वाक्य गेंद के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "गेंद",
+    "gold_sense": "ball"
+  },
+  {
+    "sentence": "यह वाक्य गेंद के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "गेंद",
+    "gold_sense": "ball"
+  },
+  {
+    "sentence": "यह वाक्य गेंद के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "गेंद",
+    "gold_sense": "ball"
+  },
+  {
+    "sentence": "यह वाक्य दुकान के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "दुकान",
+    "gold_sense": "shop"
+  },
+  {
+    "sentence": "यह वाक्य दुकान के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "दुकान",
+    "gold_sense": "shop"
+  },
+  {
+    "sentence": "यह वाक्य दुकान के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "दुकान",
+    "gold_sense": "shop"
+  },
+  {
+    "sentence": "यह वाक्य दुकान के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "दुकान",
+    "gold_sense": "shop"
+  },
+  {
+    "sentence": "यह वाक्य दुकान के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "दुकान",
+    "gold_sense": "shop"
+  },
+  {
+    "sentence": "यह वाक्य नदी के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "नदी",
+    "gold_sense": "river"
+  },
+  {
+    "sentence": "यह वाक्य नदी के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "नदी",
+    "gold_sense": "river"
+  },
+  {
+    "sentence": "यह वाक्य नदी के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "नदी",
+    "gold_sense": "river"
+  },
+  {
+    "sentence": "यह वाक्य नदी के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "नदी",
+    "gold_sense": "river"
+  },
+  {
+    "sentence": "यह वाक्य नदी के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "नदी",
+    "gold_sense": "river"
+  },
+  {
+    "sentence": "यह वाक्य पेड़ के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "पेड़",
+    "gold_sense": "tree"
+  },
+  {
+    "sentence": "यह वाक्य पेड़ के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "पेड़",
+    "gold_sense": "tree"
+  },
+  {
+    "sentence": "यह वाक्य पेड़ के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "पेड़",
+    "gold_sense": "tree"
+  },
+  {
+    "sentence": "यह वाक्य पेड़ के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "पेड़",
+    "gold_sense": "tree"
+  },
+  {
+    "sentence": "यह वाक्य पेड़ के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "पेड़",
+    "gold_sense": "tree"
+  },
+  {
+    "sentence": "यह वाक्य फल के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "फल",
+    "gold_sense": "fruit"
+  },
+  {
+    "sentence": "यह वाक्य फल के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "फल",
+    "gold_sense": "result"
+  },
+  {
+    "sentence": "यह वाक्य फल के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "फल",
+    "gold_sense": "fruit"
+  },
+  {
+    "sentence": "यह वाक्य फल के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "फल",
+    "gold_sense": "result"
+  },
+  {
+    "sentence": "यह वाक्य फल के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "फल",
+    "gold_sense": "fruit"
+  },
+  {
+    "sentence": "यह वाक्य समय के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "समय",
+    "gold_sense": "time"
+  },
+  {
+    "sentence": "यह वाक्य समय के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "समय",
+    "gold_sense": "time"
+  },
+  {
+    "sentence": "यह वाक्य समय के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "समय",
+    "gold_sense": "time"
+  },
+  {
+    "sentence": "यह वाक्य समय के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "समय",
+    "gold_sense": "time"
+  },
+  {
+    "sentence": "यह वाक्य समय के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "समय",
+    "gold_sense": "time"
+  },
+  {
+    "sentence": "यह वाक्य कुर्सी के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "कुर्सी",
+    "gold_sense": "chair"
+  },
+  {
+    "sentence": "यह वाक्य कुर्सी के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "कुर्सी",
+    "gold_sense": "position"
+  },
+  {
+    "sentence": "यह वाक्य कुर्सी के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "कुर्सी",
+    "gold_sense": "chair"
+  },
+  {
+    "sentence": "यह वाक्य कुर्सी के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "कुर्सी",
+    "gold_sense": "position"
+  },
+  {
+    "sentence": "यह वाक्य कुर्सी के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "कुर्सी",
+    "gold_sense": "chair"
+  },
+  {
+    "sentence": "यह वाक्य हाथ के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "हाथ",
+    "gold_sense": "hand"
+  },
+  {
+    "sentence": "यह वाक्य हाथ के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "हाथ",
+    "gold_sense": "control"
+  },
+  {
+    "sentence": "यह वाक्य हाथ के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "हाथ",
+    "gold_sense": "hand"
+  },
+  {
+    "sentence": "यह वाक्य हाथ के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "हाथ",
+    "gold_sense": "control"
+  },
+  {
+    "sentence": "यह वाक्य हाथ के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "हाथ",
+    "gold_sense": "hand"
+  },
+  {
+    "sentence": "यह वाक्य आंख के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "आंख",
+    "gold_sense": "eye"
+  },
+  {
+    "sentence": "यह वाक्य आंख के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "आंख",
+    "gold_sense": "vision"
+  },
+  {
+    "sentence": "यह वाक्य आंख के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "आंख",
+    "gold_sense": "eye"
+  },
+  {
+    "sentence": "यह वाक्य आंख के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "आंख",
+    "gold_sense": "vision"
+  },
+  {
+    "sentence": "यह वाक्य आंख के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "आंख",
+    "gold_sense": "eye"
+  },
+  {
+    "sentence": "यह वाक्य दिल के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "दिल",
+    "gold_sense": "heart"
+  },
+  {
+    "sentence": "यह वाक्य दिल के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "दिल",
+    "gold_sense": "emotion"
+  },
+  {
+    "sentence": "यह वाक्य दिल के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "दिल",
+    "gold_sense": "heart"
+  },
+  {
+    "sentence": "यह वाक्य दिल के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "दिल",
+    "gold_sense": "emotion"
+  },
+  {
+    "sentence": "यह वाक्य दिल के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "दिल",
+    "gold_sense": "heart"
+  },
+  {
+    "sentence": "यह वाक्य रोशनी के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "रोशनी",
+    "gold_sense": "light"
+  },
+  {
+    "sentence": "यह वाक्य रोशनी के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "रोशनी",
+    "gold_sense": "light"
+  },
+  {
+    "sentence": "यह वाक्य रोशनी के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "रोशनी",
+    "gold_sense": "light"
+  },
+  {
+    "sentence": "यह वाक्य रोशनी के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "रोशनी",
+    "gold_sense": "light"
+  },
+  {
+    "sentence": "यह वाक्य रोशनी के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "रोशनी",
+    "gold_sense": "light"
+  },
+  {
+    "sentence": "यह वाक्य आवाज के अलग अर्थ को दर्शाता है 1।",
+    "target_word": "आवाज",
+    "gold_sense": "sound"
+  },
+  {
+    "sentence": "यह वाक्य आवाज के अलग अर्थ को दर्शाता है 2।",
+    "target_word": "आवाज",
+    "gold_sense": "voice"
+  },
+  {
+    "sentence": "यह वाक्य आवाज के अलग अर्थ को दर्शाता है 3।",
+    "target_word": "आवाज",
+    "gold_sense": "sound"
+  },
+  {
+    "sentence": "यह वाक्य आवाज के अलग अर्थ को दर्शाता है 4।",
+    "target_word": "आवाज",
+    "gold_sense": "voice"
+  },
+  {
+    "sentence": "यह वाक्य आवाज के अलग अर्थ को दर्शाता है 5।",
+    "target_word": "आवाज",
+    "gold_sense": "sound"
+  }
+]
